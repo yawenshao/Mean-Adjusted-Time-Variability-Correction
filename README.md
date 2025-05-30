@@ -15,7 +15,7 @@ numpy, pandas, xarray, scipy, calendar, operator, datetime, math, matplotlib, sh
 1.	Original TVC code
 Please download TVC_class.py from Zenodo (https://zenodo.org/records/10212122) before running TVC-ma scripts.
 2.	Shapefiles
-•	Australia map: download from the Australian Bureau of Statistics https://www.abs.gov.au/book/export/25822/print.
+•	Australia map: download from the Australian Bureau of Statistics https://www.abs.gov.au/book/export/25822/print.\n
 •	Global map: download from https://hub.arcgis.com/datasets/CESJ::world-continents/explore
 
 ## Script Overview
