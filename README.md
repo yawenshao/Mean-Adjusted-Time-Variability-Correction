@@ -1,4 +1,4 @@
-# Mean-Adjusted-Time-Variability-Correction
+# Mean-Adjusted Time Variability Correction
 
 This repository provides the Python code and associated data used in the manuscript:
 Yawen Shao, Craig H. Bishop (2025). Improving CMIP6 Projections of Daily Precipitation Using a Mean-Adjusted Time Variability Correction Technique. Accepted in Climate Dynamics.
