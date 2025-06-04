@@ -9,7 +9,7 @@ This release includes Python scripts and data files for reproducing the key resu
 
 ## Requirements
 The following Python libraries are required:
-numpy, pandas, xarray, scipy, calendar, operator, datetime, math, matplotlib, shapely, geopandas, time, cartopy
+numpy, pandas, xarray, scipy, matplotlib, shapely, geopandas, cartopy
 
 ## Prerequisites
 1.	Original TVC code
